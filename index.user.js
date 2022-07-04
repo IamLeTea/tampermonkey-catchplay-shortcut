@@ -3,9 +3,9 @@
 // @namespace    http://tampermonkey.net/
 // @updateURL    https://github.com/IamLeTea/tampermonkey-test/raw/main/index.user.js
 // @downloadURL  https://github.com/IamLeTea/tampermonkey-test/raw/main/index.user.js
-// @version      0.4
+// @version      1.0
 // @description  try to take over the world!
-// @author       You
+// @author       Tea Lee
 // @match        https://www.catchplay.com/*
 // @match        https://vip.catchplay.com/*
 // @match        https://hp2-www.uat.catchplay.com/*
