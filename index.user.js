@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         CATCHPLAY Shortcut
 // @namespace    http://tampermonkey.net/
-// @updateURL
-// @downloadURL
+// @updateURL    https://github.com/IamLeTea/tampermonkey-test/raw/main/index.user.js
+// @downloadURL  https://github.com/IamLeTea/tampermonkey-test/raw/main/index.user.js
 // @version      0.1
 // @description  try to take over the world!
 // @author       You
