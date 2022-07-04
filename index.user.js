@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @updateURL    https://github.com/IamLeTea/tampermonkey-test/raw/main/index.user.js
 // @downloadURL  https://github.com/IamLeTea/tampermonkey-test/raw/main/index.user.js
-// @version      0.2
+// @version      0.3
 // @description  try to take over the world!
 // @author       You
 // @match        https://www.catchplay.com/*
@@ -57,7 +57,7 @@
           directTo("/my-account/notification");
           break;
         case "KeyS":
-          var keyword = prompt("Searh CATCHPLAY for...");
+          var keyword = prompt("Searh CATCHPLAY for blablabla...");
           if (keyword) {
             directTo(`/search/keyword/${encodeURIComponent(keyword)}`);
           }
