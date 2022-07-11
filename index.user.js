@@ -3,13 +3,14 @@
 // @namespace    http://tampermonkey.net/
 // @updateURL    https://github.com/IamLeTea/tampermonkey-test/raw/main/index.user.js
 // @downloadURL  https://github.com/IamLeTea/tampermonkey-test/raw/main/index.user.js
-// @version      1.0
+// @version      1.1
 // @description  try to take over the world!
 // @author       Tea Lee
 // @match        https://www.catchplay.com/*
 // @match        https://vip.catchplay.com/*
 // @match        https://hp2-www.uat.catchplay.com/*
 // @match        https://hp2-www.uat-rc.catchplay.com/*
+// @match        https://dev.catchplay.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=catchplay.com
 // @grant        none
 // ==/UserScript==
